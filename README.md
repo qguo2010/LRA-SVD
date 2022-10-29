@@ -7,5 +7,5 @@ Q. Guo, C. Zhang, Y. Zhang, and H. Liu, [An efficient SVD-based method for image
 
 # Flowchart
 
-![Alt text](https://github.com/qguo2010/LRA-SVD/Flowchart.png)
+![image](https://github.com/qguo2010/LRA-SVD/Flowchart.png)
 
