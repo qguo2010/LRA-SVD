@@ -1,4 +1,4 @@
-# SVD-Based Image Denoising
+# Image Denoising via LRA-SVD
 
 This is a demo for the following paper
 
